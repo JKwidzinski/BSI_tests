@@ -1,3 +1,7 @@
+"""
+Program was created by Jakub Kwidziński and Jeremi Rycharski.
+All rights reserved.
+"""
 import math
 def reliability_const_fail():
     """This is a function that allows calculating the reliability with the given failure rate and operational time.

@@ -1,3 +1,7 @@
+"""
+Program was created by Jakub Kwidziński and Jeremi Rycharski.
+All rights reserved.
+"""
 import zad
 import pytest
 
